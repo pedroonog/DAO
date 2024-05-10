@@ -1,0 +1,48 @@
+Projeto: DAO para Fundo de Investimento Comunitário em Desenvolvimento de Software
+Visão Geral:
+A DAO é uma Organização Autônoma Descentralizada que visa promover o desenvolvimento de software através de um fundo comunitário. Através da DAO, os membros podem propor, votar e financiar projetos de software que beneficiem a comunidade.
+
+Funcionalidades:
+Membros:
+Qualquer pessoa pode se tornar um membro da DAO.
+Os membros possuem ações que determinam seu poder de voto e participação nos lucros.
+Os membros podem propor novos membros para adesão à DAO.
+Propostas:
+Os membros podem propor projetos de desenvolvimento de software que desejam financiar.
+Cada proposta inclui detalhes sobre o projeto, seu orçamento estimado e os benefícios para a comunidade.
+As propostas podem ser debatidas e aprimoradas pela comunidade antes de serem submetidas a votação.
+Votação:
+As propostas são submetidas a uma votação pela comunidade.
+O peso do voto de cada membro é determinado pelo número de ações que possuem na DAO.
+As propostas que recebem uma maioria de votos positivos são aprovadas e financiadas pela DAO.
+Financiamento:
+Os projetos aprovados recebem financiamento do fundo comunitário gerenciado pela DAO.
+Os fundos são liberados de acordo com os marcos do projeto, conforme definido na proposta aprovada.
+Qualquer lucro gerado pelos projetos financiados é compartilhado entre os membros da DAO com base em sua participação acionária.
+Governança:
+A DAO possui um conjunto de regras e procedimentos para governança interna.
+Alterações nas regras da DAO são decididas por votação entre os membros.
+Tecnologias Utilizadas:
+Blockchain:
+A DAO é construída em uma blockchain para garantir transparência, imutabilidade e segurança.
+Smart contracts são usados para implementar a lógica de negócios da DAO, incluindo membros, propostas, votações e financiamento.
+Solidity:
+A linguagem de programação Solidity é usada para escrever os smart contracts da DAO.
+Web Interface:
+Uma interface web é desenvolvida para permitir que os membros interajam com a DAO de forma amigável e intuitiva.
+A interface inclui funcionalidades para propor novos projetos, votar em propostas existentes, monitorar o progresso dos projetos financiados e visualizar relatórios financeiros.
+Roadmap:
+Fase 1: Desenvolvimento da DAO Básica
+Implementação dos smart contracts básicos para membros, propostas, votações e financiamento.
+Testes e auditoria de segurança dos contratos.
+Fase 2: Desenvolvimento da Interface Web
+Projeto e implementação da interface web da DAO.
+Integração com os smart contracts existentes na blockchain.
+Fase 3: Lançamento e Iteração
+Lançamento inicial da DAO e da interface web.
+Coleta de feedback da comunidade e iteração com base nos comentários recebidos.
+Adição de novas funcionalidades com base nas necessidades e demandas da comunidade.
+Fase 4: Expansão e Crescimento
+Exploração de parcerias com outras organizações e comunidades de desenvolvimento de software.
+Expansão da DAO para apoiar uma variedade maior de projetos e iniciativas.
+Educação e engajamento da comunidade para promover a adoção da DAO e aumentar o número de membros participantes.
